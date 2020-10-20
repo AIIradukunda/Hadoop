@@ -1,9 +1,8 @@
 # Hadoop
 Hadoop–A Distributed Programming Framework
 
-Big data is an extremely huge of data   --- huge for big data means hundred – thousands of terabytes
- factors of big data
- – volume tells you how big the data is growing
+Big data is an extremely huge of data   --- huge for big data means hundred/thousands of terabytes factors of big data
+– volume tells you how big the data is growing
 -Velocity (rate/ speed) tells you how fast your data is growing
 -Variety refers to the all structure and unstructured data that is being generated
 # Why do we need Hadoop?
