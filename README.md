@@ -22,3 +22,9 @@ FS controls how the data is stored and retrieved, has metadata about files and f
 -	Supports distributed processing where files are stored in blocks
 -	Replaces blocks – prevent data loss or failures
 -	scalability
+
+# MAPREDUCE
+
+- Distributed programming model for processing large dataset
+- Hadoop implements Mapreducer
+- manage communications,data transfers, parallel executions across distributed servers
